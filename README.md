@@ -13,7 +13,7 @@
 🚀 Exploring the realms of Kubernetes for container orchestration and building robust CI/CD pipelines with Jenkins.
 
 ### Connect With Me:
-🌐 LinkedIn: [Nihar](https://www.linkedin.com/in/nrp921/)
-🐦 Twitter: [@YourTwitterHandle](#)
+🌐 LinkedIn: [@nrp921](https://www.linkedin.com/in/nrp921/)
+🐦 Twitter: [@iamnrp9](https://twitter.com/iamnrp9)
 
 ### Let's Build the Future Together! 🌈✨
